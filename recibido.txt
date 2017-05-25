@@ -1,0 +1,1 @@
+{"tipoVoto":1,"idCancion":1,"imei":"359975062372479","idEvento":1}
